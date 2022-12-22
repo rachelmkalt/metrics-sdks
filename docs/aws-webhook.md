@@ -8,7 +8,7 @@ category: 62292aea889520008ed0113b
 >
 > This document describes the **Personalized Docs Webhook** setup process for Amazon API Gateway customers. If you manage your API users through other means, check out our [standard Personalized Docs Webhook setup guidance](https://docs.readme.com/main/docs/personalized-docs-webhook).
 
-As [previously described](https://docs.readme.com/main/docs/personalized-docs-webhook), you can customize your users' experience in your docs by injecting custom user data into your documentation via the **Personalized Docs Webhook**.
+As [previously described](https://docs.readme.com/main/docs/personalized-docs-webhook), you can customize your users' experience in your docs by injecting custom user data into your documentation via the **Personalized Docs Webhook**. This means your users can easily locate their API keys right from your developer hub, and in the case of API Gateway, you can even provision new API keys for users.
 
 If you plan on using AWS Lambda to deploy your webhook and if you already use Amazon API Gateway to manage API credentials for your users, we have dedicated code samples for you!
 
